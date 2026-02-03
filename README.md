@@ -130,7 +130,8 @@ Verify pin orientation before applying power
 
 Results are based on tested WT6000 hardware and may not apply universally
 
-Pinout chart:<img width="800" height="508" alt="WT6000_USB" src="https://github.com/user-attachments/assets/6646c228-ad98-4ce5-b4db-6c9b584c1522" />
+Pinout chart:
+<img width="800" height="508" alt="WT6000_USB" src="https://github.com/user-attachments/assets/6646c228-ad98-4ce5-b4db-6c9b584c1522" />
 
 Finished cable, with RS5000 connector: ![DIlbXcV](https://github.com/user-attachments/assets/b135f430-5ad1-4efa-9016-7ffe0e307997)
 
