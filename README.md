@@ -32,6 +32,8 @@ The same connector and pinout are used by:
 
     RS5000 / RS4000 scanner cables
 
+Connectors for this cable can be sourced from ebay, buy using the plug from an RS5000 replacement cable.
+
 Refer to images in this repository for exact pin numbering and orientation. Pinout Summary Pin Function 1 Ground 2 Dock Mode Detect 3 Not connected 4 Not connected 5 USB VBUS (+5 V) 6 USB ID (unused for WT6000 USB) 7 Charger +5 V 8 Charger +5 V 9 Not connected 10 USB D+ 11 USB D− 12 Ground Dock Mode Detection (Pin 2)
 
 Pin 2 determines how the WT6000 interprets the connected accessory. Pin 2 Connection WT6000 Behavior Direct to Ground Dock / USB mode Resistor to GND Scanner accessory identified Floating No accessory Important Notes
@@ -127,3 +129,9 @@ Use a current-limited, regulated 5 V power source
 Verify pin orientation before applying power
 
 Results are based on tested WT6000 hardware and may not apply universally
+
+Pinout chart:<img width="800" height="508" alt="WT6000_USB" src="https://github.com/user-attachments/assets/6646c228-ad98-4ce5-b4db-6c9b584c1522" />
+
+Finished cable, with RS5000 connector: ![DIlbXcV](https://github.com/user-attachments/assets/b135f430-5ad1-4efa-9016-7ffe0e307997)
+
+
